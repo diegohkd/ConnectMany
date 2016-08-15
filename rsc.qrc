@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Apresentacao/rsc/bg.png</file>
+        <file>Apresentacao/rsc/bg_menu.jpg</file>
+        <file>Apresentacao/rsc/botao.png</file>
+        <file>Apresentacao/rsc/botao_2.png</file>
+        <file>Apresentacao/rsc/cara.png</file>
+        <file>Apresentacao/rsc/coroa.png</file>
+        <file>Apresentacao/rsc/menu_moeda.png</file>
+        <file>Apresentacao/rsc/moeda.png</file>
+        <file>Apresentacao/rsc/moeda_selecionada.png</file>
+        <file>Apresentacao/rsc/nodo.png</file>
+        <file>Apresentacao/rsc/peca.png</file>
+        <file>Apresentacao/rsc/peca_antiga.png</file>
+        <file>Apresentacao/rsc/placar.png</file>
+        <file>Apresentacao/rsc/seta.png</file>
+        <file>Apresentacao/rsc/seta_brilho.png</file>
+        <file>Apresentacao/rsc/seta_coluna.png</file>
+        <file>Apresentacao/rsc/seta_moeda.png</file>
+        <file>Apresentacao/rsc/seta_selecionada.png</file>
+        <file>Apresentacao/rsc/display.png</file>
+    </qresource>
+</RCC>
